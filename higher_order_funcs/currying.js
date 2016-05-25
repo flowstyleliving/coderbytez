@@ -12,3 +12,6 @@ let fluffykinsDragon = dragon('fluffykins')
 let tinyDragon = fluffykinsDragon('tiny')
 
 console.log(tinyDragon('lightning'))
+
+
+//Thank you to @mpjme
